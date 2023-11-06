@@ -869,7 +869,7 @@ button {
 }
 
 .service-section:before {
-    background-image: url(../img/map-pattern.png);
+    background-image: url(map-pattern.png);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: contain;
@@ -1064,7 +1064,7 @@ button {
 }
 
 .work-pro-section {
-    background-image: url(../img/d-slide-6.jpg);
+    background-image: url(d-slide-6.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1296,7 +1296,7 @@ button {
 }
 
 .cta-section {
-    background-image: url(../img/cta-bg.jpg);
+    background-image: url(cta-bg.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1369,7 +1369,7 @@ button {
 }
 
 .counter-section {
-    background-image: url(../img/counter-bg.jpg);
+    background-image: url(counter-bg.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1654,7 +1654,7 @@ button {
 }
 
 .page-header {
-    background-image: url(../img/page-header.jpg);
+    background-image: url(page-header.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
